@@ -1,0 +1,13 @@
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\JMITRALJ" ("\JMITRALJ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4K7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\EVGFEMNQ" ("\EVGFEMNQ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4K7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\MKMBZCTH" ("\MKMBZCTH")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4K7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\KTSNLTPM" ("\KTSNLTPM")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4K7"; VariantName = "[No Variations]"
+Added Room: Name=CAN2XG

@@ -1,0 +1,90 @@
+Change Component Description : Designator=D1 Old Description=DO214 SMD Version of 1N4007
+Forward Current: 1A
+Max Repititive Reverse Voltage: 1000 V
+Max RMS Voltage: 700V
+Max DC Blocking Voltage: 1000V
+Max instantaneous forward voltage: 1.1 V                    https://www.ktron.in/product/m7-diode-sma/ New Description=DO214 SMD Version of 1N4007 Forward Current: 1A Max Repititive Reverse Voltage: 1000 V Max RMS Voltage: 700V
+Max DC Blocking Voltage: 1000V
+Change Component Description : Designator=L5 Old Description=https://www.ktron.in/product/smd-yellow-led-0603/ New Description=LED YELLOW CLEAR 0603 SMD   
+Change Component Description : Designator=L2 Old Description=LED BLUE CLEAR 0603 SMD                               https://www.sunrom.com/p/blue-smd-led-0603 New Description=LED BLUE CLEAR 0603 SMD                               
+Change Component Description : Designator=L4 Old Description=LED GREEN CLEAR 0603 SMD  https://www.ktron.in/product/smd-green-led-0603-package/ New Description=LED GREEN CLEAR 0603 SMD 
+Change Component Description : Designator=L1 Old Description=LED RED CLEAR 0603 SMD   https://www.ktron.in/product/smd-red-led-0603/ New Description=LED RED CLEAR 0603 SMD   
+Change Component Description : Designator=L3 Old Description=Orange SMD LED 0603    https://www.sunrom.com/p/orange-smd-led-0603 New Description=LED ORANGE CLEAR 0603 SMD   
+Change Component Description : Designator=R1 Old Description=SMD 0603 Package
+Resistance: 1K Ohms
+Tolerance: 1%
+Power rating: 1/10W https://www.ktron.in/product/resistor-1k-ohms-1-1-10w-smd-0603/ New Description=Thick Film Resistor -  1K, 1%, 0603
+Change Component Description : Designator=R7 Old Description=SMD 0603 Package
+Resistance: 1K Ohms
+Tolerance: 1%
+Power rating: 1/10W https://www.ktron.in/product/resistor-1k-ohms-1-1-10w-smd-0603/ New Description=Thick Film Resistor -  1K, 1%, 0603
+Change Component Description : Designator=R9 Old Description=SMD 0603 Package
+Resistance: 1K Ohms
+Tolerance: 1%
+Power rating: 1/10W https://www.ktron.in/product/resistor-1k-ohms-1-1-10w-smd-0603/ New Description=Thick Film Resistor -  1K, 1%, 0603
+Change Component Description : Designator=R12 Old Description=SMD 0603 Package
+Resistance: 1K Ohms
+Tolerance: 1%
+Power rating: 1/10W https://www.ktron.in/product/resistor-1k-ohms-1-1-10w-smd-0603/ New Description=Thick Film Resistor -  1K, 1%, 0603
+Change Component Description : Designator=R16 Old Description=SMD 0603 Package
+Resistance: 1K Ohms
+Tolerance: 1%
+Power rating: 1/10W https://www.ktron.in/product/resistor-1k-ohms-1-1-10w-smd-0603/ New Description=Thick Film Resistor -  1K, 1%, 0603
+Change component parameters: Designator = "L1" ("L1"); Footprint = "LEDRED0603"; UniqueID = "\HIPAXSWA" ("\HIPAXSWA")
+Change component parameters (AddParameter): Name = "Case/Packahe"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Top%20View/IN-S63AT%20Series_V1.1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Top%20View/IN-S63AT%20Series_V1.1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "LED RED CLEAR 0603 SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Inolux"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "IN-S63ATR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.34000, 10=0.25200, 100=0.11930, 500=0.07950, 1000=0.06228 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "15120"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1830-1065-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "LEDBLUE0603"; UniqueID = "\NCFLXRDD" ("\NCFLXRDD")
+Change component parameters (AddParameter): Name = "Case/Packahe"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category 1"; Value = "LEDs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Top%20View/IN-S63AT%20Series_V1.1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Top%20View/IN-S63AT%20Series_V1.1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "LED BLUE CLEAR 0603 SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Inolux"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "IN-S63AT5B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.34000, 10=0.25200, 100=0.11930, 500=0.07950, 1000=0.06228 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "6827"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1830-1061-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L3" ("L3"); Footprint = "LEDRED0603"; UniqueID = "\KTWSKEOT" ("\KTWSKEOT")
+Change component parameters (AddParameter): Name = "Case/Packahe"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L4" ("L4"); Footprint = "LEDGREEN0603"; UniqueID = "\NCLKNYYN" ("\NCLKNYYN")
+Change component parameters (AddParameter): Name = "Case/Packahe"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category 1"; Value = "LEDs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Top%20View/IN-S63AT%20Series_V1.1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Top%20View/IN-S63AT%20Series_V1.1.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "LED GREEN CLEAR 0603 SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Inolux"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "IN-S63AT5G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.52000, 10=0.37200, 100=0.16540, 500=0.11576, 1000=0.09508 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "37"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1830-1062-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L5" ("L5"); Footprint = "LEDRED0603"; UniqueID = "\CYDXRGZU" ("\CYDXRGZU")
+Change component parameters (AddParameter): Name = "Case/Packahe"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\EDTKRQAJ" ("\EDTKRQAJ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\BBNDLTYE" ("\BBNDLTYE")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\IWUUNROA" ("\IWUUNROA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\CXVPXDNN" ("\CXVPXDNN")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\TTIULFHC" ("\TTIULFHC")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Room: Name=CAN2XG

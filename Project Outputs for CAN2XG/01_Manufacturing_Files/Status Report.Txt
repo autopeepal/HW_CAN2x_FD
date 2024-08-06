@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [CAN2XG.PcbDoc]
+   Generated File[CAN2XG.TXT]
+   Generated File[CAN2XG.LDP]
+   Generated File[CAN2XG.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:36:27 AM On 8/6/2024
