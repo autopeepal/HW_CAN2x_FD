@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\Autopeepel\TATA_VCI\CAN2XG.PcbDoc
+DRC Rules Export File for PCB: D:\Autopeepel\HW_CAN2x_FD\CAN2XG.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00

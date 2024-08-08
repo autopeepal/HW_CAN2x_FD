@@ -1,3 +1,0 @@
-Change component parameters: Designator = "U3" ("U3"); Footprint = "QFN50P500X500X100_HS-29N"; UniqueID = "\TQBEZIMA" ("\TQBEZIMA")
-Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CP2102-GMR"; VariantName = "[No Variations]"
-Added Room: Name=CAN2XG
