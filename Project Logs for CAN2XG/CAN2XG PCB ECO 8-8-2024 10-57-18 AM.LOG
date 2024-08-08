@@ -1,0 +1,100 @@
+Change Component Comment : Designator=C20 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C21 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C22 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C23 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C24 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C29 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C30 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C31 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C32 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C25 Old Comment=1uF New Comment=CS0805KRX7RYBB472
+Change Component Comment : Designator=C33 Old Comment=1uF New Comment=CS0805KRX7RYBB472
+Change component parameters: Designator = "C20" ("C20"); Footprint = "CAP-0603"; UniqueID = "\KGWWSVNL" ("\KGWWSVNL")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectirc"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CAP-0603"; UniqueID = "\KBESFELM" ("\KBESFELM")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectirc"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAP-0603"; UniqueID = "\JZJAZOEB" ("\JZJAZOEB")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectirc"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.33uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "CAP-0603"; UniqueID = "\QYUMLSEO" ("\QYUMLSEO")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectirc"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "CAP-0603"; UniqueID = "\TOCUVMYD" ("\TOCUVMYD")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectirc"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAP-0603"; UniqueID = "\GKXXTHPV" ("\GKXXTHPV")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/204/cx7r-204728.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/204/cx7r-204728.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/5418/cx7r-218113-5418187.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/5418/cx7r-218113-5418187.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "CAP-0603"; UniqueID = "\JSDYGVJT" ("\JSDYGVJT")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectirc"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "CAP-0603"; UniqueID = "\SHWHKRXB" ("\SHWHKRXB")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectirc"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "CAP-0603"; UniqueID = "\TOVWVVPQ" ("\TOVWVVPQ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectirc"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.33uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31" ("C31"); Footprint = "CAP-0603"; UniqueID = "\WPWBBEYK" ("\WPWBBEYK")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectirc"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "CAP-0603"; UniqueID = "\UXJPNFHF" ("\UXJPNFHF")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectirc"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33" ("C33"); Footprint = "CAP-0603"; UniqueID = "\GTVXMOYM" ("\GTVXMOYM")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/204/cx7r-204728.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/204/cx7r-204728.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/5418/cx7r-218113-5418187.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/5418/cx7r-218113-5418187.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\XAIBDURS" ("\XAIBDURS")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\DZXUSRBV" ("\DZXUSRBV")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=CAN2XG_TCAN Member=Component C20 10uF
+Added Member To Class: ClassName=CAN2XG_TCAN Member=Component C21 10uF
+Added Member To Class: ClassName=CAN2XG_TCAN Member=Component C22 10uF
+Added Member To Class: ClassName=CAN2XG_TCAN Member=Component C23 10uF
+Added Member To Class: ClassName=CAN2XG_TCAN Member=Component C24 10uF
+Added Member To Class: ClassName=CAN2XG_TCAN Member=Component C25 CS0805KRX7RYBB472
+Added Member To Class: ClassName=CAN2XG_TCAN Member=Component C28 10uF
+Added Member To Class: ClassName=CAN2XG_TCAN Member=Component C29 10uF
+Added Member To Class: ClassName=CAN2XG_TCAN Member=Component C30 10uF
+Added Member To Class: ClassName=CAN2XG_TCAN Member=Component C31 10uF
+Added Member To Class: ClassName=CAN2XG_TCAN Member=Component C32 10uF
+Added Member To Class: ClassName=CAN2XG_TCAN Member=Component C33 CS0805KRX7RYBB472
+Added Member To Class: ClassName=CAN2XG Member=Component R2 1K 0603
+Added Member To Class: ClassName=CAN2XG Member=Component R3 10K 0603
+Added Room: Name=CAN2XG

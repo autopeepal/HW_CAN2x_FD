@@ -1,0 +1,7 @@
+Change Component Comment : Designator=C18 Old Comment=100uf 16V New Comment=
+Change Component Description : Designator=C18 Old Description=100uF 16V (107C B3528) Tantalum                          https://www.sunrom.com/p/100uf-16v-107c-b3528-tantalum New Description=100uF 16V (107C B3528) Tantalum
+Change component parameters: Designator = "C18" ("C18"); Footprint = "C100uF"; UniqueID = "\JRLUONDR" ("\JRLUONDR")
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=CAN2XG Member=Component C18
+Added Room: Name=CAN2XG
