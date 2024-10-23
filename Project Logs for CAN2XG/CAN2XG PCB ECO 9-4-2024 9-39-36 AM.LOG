@@ -1,0 +1,6 @@
+Change Component Comment : Designator=C3 Old Comment=1uF New Comment=
+Change Component Comment : Designator=C5 Old Comment=1uF New Comment=
+Change Component Comment : Designator=C9 Old Comment=10uF New Comment=
+Change Component Comment : Designator=C15 Old Comment=200uF New Comment=
+Change Component Description : Designator=C15 Old Description=220uF 50V 10x10.5mm SMD Electrolytic Capacitor      https://www.sunrom.com/p/220uf-50v-10x105mm-smd-electrolytic-capacitor New Description=220uF 50V 10x10.5mm SMD Electrolytic Capacitor
+Added Room: Name=CAN2XG

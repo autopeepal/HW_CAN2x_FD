@@ -2,33 +2,6 @@
 FileName = CAN2XG.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Paste
-      File : CAN2XG.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D19
-    D21
-    D33
-    D65
-    D66
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : CAN2XG.GBS
 
@@ -40,97 +13,23 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D34
-    D39
-    D41
+    D37
+    D42
+    D44
     D53
     D54
     D55
     D56
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
     D75
     D76
     D77
     D78
-*************************************************************
-
-*************************************************************
-Generating : Top Assembly
-      File : CAN2XG.GM2
-
-    Adding Layer      : Top Assembly
-
-
-Used DCodes :
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : CAN2XG.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : CAN2XG.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : CAN2XG.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D14
-    D19
-    D21
-    D33
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
 *************************************************************
 
 *************************************************************
@@ -176,40 +75,16 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : CAN2XG.GTS
+Generating : Top Assembly
+      File : CAN2XG.GM2
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Assembly
 
 
 Used DCodes :
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
+    D11
+    D12
+    D13
 *************************************************************
 
 *************************************************************
@@ -247,6 +122,132 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Layer
+      File : CAN2XG.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D17
+    D22
+    D24
+    D33
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : CAN2XG.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : CAN2XG.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D22
+    D24
+    D33
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : CAN2XG.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : CAN2XG.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
 Generating : Drill Drawing
       File : CAN2XG.GD1
 
@@ -256,7 +257,7 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D79
-    D80
+    D85
+    D86
 *************************************************************
 

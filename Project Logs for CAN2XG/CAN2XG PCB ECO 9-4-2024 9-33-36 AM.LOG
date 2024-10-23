@@ -1,0 +1,13 @@
+Change Component Comment : Designator=Z1 Old Comment=5.1V Zener New Comment=
+Change Component Comment : Designator=R3 Old Comment=10K 0603 New Comment=
+Change Component Comment : Designator=R23 Old Comment=10K 0603 New Comment=
+Change Component Comment : Designator=R24 Old Comment=10K 0603 New Comment=
+Change Component Comment : Designator=R30 Old Comment=12K New Comment=
+Change Component Comment : Designator=R4 Old Comment=c New Comment=
+Change Component Comment : Designator=R6 Old Comment=c New Comment=
+Change Component Comment : Designator=R8 Old Comment=c New Comment=
+Change Component Comment : Designator=R25 Old Comment=c New Comment=
+Change Component Comment : Designator=R28 Old Comment=c New Comment=
+Change Component Comment : Designator=U2 Old Comment=LM1117IMP-3.3/NOPB New Comment=
+Change Component Comment : Designator=U6 Old Comment=TCAN4550RGYTQ1 New Comment=
+Added Room: Name=CAN2XG
